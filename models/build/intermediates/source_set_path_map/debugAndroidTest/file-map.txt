@@ -1,0 +1,5 @@
+org.vosk.models.test.models-androidTest-0 /Users/abilmanoj/Desktop/neural-foundry/SpeechToTextApp/models/build/generated/res/resValues/androidTest/debug
+org.vosk.models.test.models-mergeDebugAndroidTestResources-1 /Users/abilmanoj/Desktop/neural-foundry/SpeechToTextApp/models/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+org.vosk.models.test.models-mergeDebugAndroidTestResources-2 /Users/abilmanoj/Desktop/neural-foundry/SpeechToTextApp/models/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+org.vosk.models.test.models-merged_res-3 /Users/abilmanoj/Desktop/neural-foundry/SpeechToTextApp/models/build/intermediates/merged_res/debugAndroidTest
+org.vosk.models.test.models-packaged_res-4 /Users/abilmanoj/Desktop/neural-foundry/SpeechToTextApp/models/build/intermediates/packaged_res/debug
